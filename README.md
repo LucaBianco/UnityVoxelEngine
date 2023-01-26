@@ -1,5 +1,5 @@
 # Voxel Engine
-[Picture of the Voxel Engine in Unity](https://www.luca-bianconi.it/projects/unity-voxels/img/vxe.png)
+![Picture of the Voxel Engine in Unity](https://www.luca-bianconi.it/projects/unity-voxels/img/vxe.png)
 
 ## Introduction
 This is a fully textured, voxel map generator that does multi-threaded voxel meshing. It creates fixed-size worlds. The meshing technique used is full greedy algorithm. Currently, the project does not include collider functionality.
