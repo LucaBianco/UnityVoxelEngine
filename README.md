@@ -14,6 +14,7 @@ To use this project in your own Unity project, simply follow these steps:
 
 - Clone the repository or download the zip file.
 - Add the subfolders to the Assets folder of your Unity project.
+- Launch Unity and open Scenes > SampleScene.unity.
 - You're ready to go! Enjoy generating your own voxel worlds.
 
 ## Links
