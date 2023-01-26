@@ -1,6 +1,6 @@
 # Voxel Engine
 ## Introduction
-This is a fully textured, multi-threaded voxel map generator and doeas real-time voxel meshing. It creates fixed-size worlds. The meshing technique used is full greedy algorithm. Currently, the project does not include collider functionality.
+This is a fully textured, voxel map generator that does multi-threaded voxel meshing. It creates fixed-size worlds. The meshing technique used is full greedy algorithm. Currently, the project does not include collider functionality.
 
 I developed this project as a hobby and found it to be a valuable learning experience as I had to overcome various challenges. I am now sharing the code with the community for anyone to use and modify as they see fit.
 
