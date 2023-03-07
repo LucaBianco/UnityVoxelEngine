@@ -32,16 +32,4 @@ namespace VoxelSystem
         Grass,
         Stone
     }
-
-    public class Chunk
-    {
-        public int3 WorldPosition { get; private set; }
-        public Block[,,] blocks;
-
-        public Chunk(int3 worldPosition, uint chunkSize)
-        {
-            WorldPosition = worldPosition;
-            blocks = new Block[chunkSize, chunkSize, chunkSize];
-        }
-    }
 }
